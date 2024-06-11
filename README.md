@@ -1,6 +1,8 @@
 # Melanoma-Detection
 > build a multiclass classification model using a custom convolutional neural network in TensorFlow.
+
 > Find detailed project along with dataset on collab: https://drive.google.com/drive/folders/1TUwIoAWjjBoprDRiOOWRRCna_-j6gaPq?usp=sharing
+
 > Find detailed project along with dataset on kaggle: https://www.kaggle.com/code/subhamsrivastavaml/skin-cancer-detection
 
  
